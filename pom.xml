@@ -10,7 +10,7 @@
       <artifactId>vertx-unit</artifactId>
     </dependency>
     <dependency>
-      <version>3.5.0</version>
+      <version>3.5.4</version>
       <groupId>io.vertx</groupId>
       <artifactId>vertx-core</artifactId>
     </dependency>
